@@ -8,7 +8,7 @@ Base64 | Encrypt / Decrypt , a pour but de vous faciliter la tache via un simple
 ## 🛠 Installation
 
 ```txt
-Lancé le update.bat
+Lancé le install.bat
 ```
 ## 💻 Utilisation
 ```txt
