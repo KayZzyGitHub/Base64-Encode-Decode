@@ -8,11 +8,11 @@ Base64 | Encrypt / Decrypt , a pour but de vous faciliter la tache via un simple
 ## 🛠 Installation
 
 ```txt
-Lancé le install.bat
+Lancez le install.bat
 ```
 ## 💻 Utilisation
 ```txt
-Lancé le start.bat
+Lancez le start.bat
 ```
 
 ## 📚 Crédit
