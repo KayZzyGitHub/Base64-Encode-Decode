@@ -3,7 +3,7 @@
 
 # Base64 | Encrypt / Decrypt
 
-Base64 | Encrypt / Decrypt , a pour but de vous faciliter la tache via un simple script en javascript !
+Base64 | Encrypt / Decrypt , a pour but de vous facilité la tâche via un simple script en javascript !
 
 ## 🛠 Installation
 
